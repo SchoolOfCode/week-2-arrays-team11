@@ -13,7 +13,7 @@ let songs = ["Song 1", "Song 2", "Song 3", "Song 4", "Song 5"];
 
 // Modify the fifth song
 songs[4] = "Baby Shark";
-
+songs[2] = "YMCA"
 // console.log(songs[4]);
 
 // // Log the array to the console
@@ -28,3 +28,4 @@ console.log(songs);
 // cookiesOrdered = cookiesOrdered.map((order) => order * 10);
 
 // console.log(cookiesOrdered);
+console.log(songs[2])
