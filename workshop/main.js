@@ -28,4 +28,3 @@ console.log(songs);
 // cookiesOrdered = cookiesOrdered.map((order) => order * 10);
 
 // console.log(cookiesOrdered);
-console.log(songs[2])
